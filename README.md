@@ -57,8 +57,8 @@ Trained and compared multiple models:
   * Confusion Matrix
   * Precision, Recall, F1-score
 
-👉 **Best Model:** XGBoost
-👉 **AUC Score:** ~0.85+ (depends on run)
+👉 **Best Model:** Logistic Regression
+👉 **AUC Score:** ~0.82
 
 ---
 
