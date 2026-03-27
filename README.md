@@ -58,7 +58,7 @@ Trained and compared multiple models:
   * Precision, Recall, F1-score
 
 👉 **Best Model:** Logistic Regression
-👉 **AUC Score:** ~0.82
+👉 **AUC Score:** ~0.831
 
 ---
 
